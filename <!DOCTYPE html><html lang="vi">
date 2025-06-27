@@ -1,0 +1,83 @@
+<!DOCTYPE html><html lang="vi">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Chúc mừng sinh nhật!</title>
+        <style>
+            body {
+                      margin: 0;
+                            padding: 0;
+                                  font-family: 'Comic Sans MS', cursive, sans-serif;
+                                        background: linear-gradient(to bottom, #ffccff, #ffffcc);
+                                              overflow: hidden;
+                                                    text-align: center;
+            }
+                h1 {
+                          color: #ff3399;
+                                font-size: 3em;
+                                      margin-top: 50px;
+                }
+                    h2 {
+                              color: #3366cc;
+                                    font-size: 2em;
+                    }
+                        .balloons {
+                                  position: fixed;
+                                        width: 100%;
+                                              top: 0;
+                                                    left: 0;
+                                                          pointer-events: none;
+                                                                z-index: 10;
+                        }
+                            .balloon {
+                                      width: 50px;
+                                            height: 70px;
+                                                  background-color: #ff9999;
+                                                        border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+                                                              position: absolute;
+                                                                    animation: float 6s infinite ease-in-out;
+                            }
+                                @keyframes float {
+                                          0% {
+                                                    transform: translateY(100vh);
+                                          }
+                                                100% {
+                                                            transform: translateY(-100vh);
+                                                }
+                                }
+                                    .message {
+                                              margin-top: 30px;
+                                                    font-size: 1.5em;
+                                                          color: #6633cc;
+                                                                padding: 0 20px;
+                                    }
+                                        .cake {
+                                                  margin: 50px auto;
+                                                        width: 150px;
+                                        }
+                                            audio {
+                                                      margin-top: 20px;
+                                            }
+                                              </style>
+                                              </head>
+                                              <body>
+                                                <div class="balloons">
+                                                    <div class="balloon" style="left: 10%; background-color: #ff6666;"></div>
+                                                        <div class="balloon" style="left: 30%; background-color: #66ccff;"></div>
+                                                            <div class="balloon" style="left: 50%; background-color: #99ff99;"></div>
+                                                                <div class="balloon" style="left: 70%; background-color: #ffff66;"></div>
+                                                                    <div class="balloon" style="left: 90%; background-color: #ffcc66;"></div>
+                                                                      </div>  <h1>Chúc mừng sinh nhật!</h1>
+                                                                        <h2>Gửi đến chị Nguyễn Đức Thanh Tuyền</h2>
+                                                                          <img src="https://cdn.pixabay.com/photo/2016/03/05/22/39/birthday-1236889_960_
+                                            }
+                                        }
+                                    }
+                                                }
+                                          }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
